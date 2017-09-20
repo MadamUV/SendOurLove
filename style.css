@@ -1,0 +1,140 @@
+#container {
+  width:1000px;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  background:url('images/notepaper7.png');
+  border-radius:2px;
+}
+#uppernav {
+  color:#FE4544;
+  width:70%;
+}
+#uppernav table td {
+  width:1%;
+}
+#inner-main {
+  border:1px;
+  border-color:#DDEEFF;
+}
+p {
+  padding-left:10px;
+}
+body {
+  background-color:#DBEBFB;
+  background:url('images/skylovely3.jpg');
+  color:#224;
+  border-radius:4px;
+}
+#tab1 {
+  background:url('images/flower.jpg');
+  position:absolute;
+  top:240px;
+  right:10px;
+}
+#search {
+  width:130px;
+  height:60px;
+    position:absolute;
+  top:151px;
+  right:0px;
+}
+#tab2 {
+  background:url('images/card.jpg');
+  position:absolute;
+  top:300px;
+  right:10px;
+}
+#security {
+  position:absolute;
+  top:360px;
+  right:10px;
+}
+#brick2 {
+  position:absolute;
+  top:151px;
+  right:0px;
+}
+#cloudsearch {
+  position:absolute;
+  top:0;
+  right:0;
+}
+#tab1, #tab2, #security {
+  padding:10px;
+  margin:10px 10px 0 0;
+  width:196px;
+}
+a:hover {
+  color:#FE2222;
+  text-decoration:underline;
+}
+a {
+  text-decoration:none;
+  color:#FE4544;
+}
+#header {
+  width:1000px;
+  height:164px;
+  background:url('images/newtributebanner2.png');
+}
+#sidebar-right div {
+  color:#FE4544;
+}
+#sidebar-right div #security a:link, #sidebar-right div #security a:hover, {
+  color:pink;
+}
+#sidebar-right {
+  color:#FE4524;
+  border-radius:2px;
+  max-width:19%;
+}
+#questions td {
+  padding: 0 0 2% 4%;
+  width:65%
+}
+#questions table, #questionssignup table {
+   margin-left:7%;
+   width:92%;
+}
+#securityoptions, #settingpass {
+  margin-left:7%;
+  max-width:43%;
+}
+#securityoptions table td {
+  width:2%;
+}
+#security {
+  background:url('images/lock2.png');
+  color:pink;
+}
+.login {
+  text-align:right;
+  width:60%;
+  margin-left:25%;
+}
+#signupform, .login, #setupform, #passform, #setpass {
+  margin-left:60px;
+  position:relative;
+}
+#passform, #doneforgetting {
+  padding-bottom:6%;
+  padding-left:10%;
+  max-width:50%;
+}
+#setupform {
+  float:right;
+}
+.mysignup {
+  margin-left:10%;
+}
+#getaccount {
+  text-align:right;
+  padding-right:4%;
+}
+table .activetab {
+  text-decoration:overline;
+  color:red;
+  font-weight:
+}
